@@ -67,7 +67,7 @@ Visa (Sweden)        | 4002 6200 0000 0005 | 000
 
 ### Braintree
 
-The following card numbers do not trigger specific credit card errors:-
+The following card numbers do not trigger specific credit card errors:
 
 Card Type        | Card Number(s)
 :----------------|:------------------------------------
@@ -78,7 +78,7 @@ Maestro          | 6304000000000000
 Mastercard       | 5555555555554444
 Visa             | 4111111111111111, 4005519200000004, 4009348888881881, 4012000033330026, 4012000077777777, 4012888888881881, 4217651111111119 and 4500600000000061
 
-To trigger an unsuccessful credit card verification use one of the following cards:-
+To trigger an unsuccessful credit card verification use one of the following cards:
 
 Card Type        | Card Number(s)   | Verification Response
 :----------------|:-----------------|:----------------------
