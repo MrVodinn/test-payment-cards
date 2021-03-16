@@ -408,7 +408,7 @@ Visa Electron           | 4917300000000008                   |       | 123  | Y
 
 All test cards use the address "88" and postcode "412".
 
-The 3DSecure responses (3DS) are:-
+The 3DSecure responses (3DS) are:
 
  * Y - Enrolled, and will progress to the password page to complete verification.
  * N - NOT Enrolled and will return a `3DSecureStatus=NOTAVAILABLE` back to your system.
